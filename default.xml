@@ -24,6 +24,8 @@
 
 <!-- BEGIN CREEPEROS -->
   <project path="android" name="android" remote="creeper" />
+  <project path="CreeperPapers" name="android_packages_apps_CreeperPapers" remote="creeper" />
+<!-- END CREEPEROS -->
   
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
