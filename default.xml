@@ -11,7 +11,8 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="creeper"
-           fetch="git://github.com/CreeperOS" />
+           fetch="git://github.com/CreeperOS"
+           revision="refs/heads/creeper-1.0" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
