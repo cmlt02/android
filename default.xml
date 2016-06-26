@@ -9,6 +9,10 @@
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
+  
+  <remote  name="cmlt02"
+           fetch="git://github.com/cmlt02"
+           revision="refs/heads/creeper-1.0-kernole" />
 
   <remote  name="creeper"
            fetch="git://github.com/CreeperOS"
@@ -27,6 +31,13 @@
   <project path="android" name="android" remote="creeper" />
   <project path="packages/apps/CreeperPapers" name="android_packages_apps_CreeperPapers" remote="creeper" />
 <!-- END CREEPEROS -->
+
+<!-- BEGIN CMLT02 -->
+  <project path="device/samsung/lt02wifi" name="android_device_samsung_lt02wifi" remote="cmlt02" revision="creeper-1.0" />
+  <project path="vendor/samsung/lt02wifi" name="android_vendor_samsung_lt02wifi" remote="cmlt02" revision="creeper-1.0" />
+  <project path="kernel/samsung/lt02" name="android_kernel_samsung_lt02" remote="cmlt02" />
+  <project path="kernel/samsung/lt02-common" name="android_kernel_samsung_lt02-common" remote="cmlt02" />
+<!-- END CMLT02 -->
   
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
