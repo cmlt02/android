@@ -12,7 +12,7 @@
   
   <remote  name="cmlt02"
            fetch="git://github.com/cmlt02"
-           revision="refs/heads/creeper-1.0-kernole" />
+           revision="refs/heads/creeper-1.0-kerNole" />
 
   <remote  name="creeper"
            fetch="git://github.com/CreeperOS"
