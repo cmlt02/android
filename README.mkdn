@@ -38,4 +38,4 @@ Then to sync up:
 web page 
 --------
 
-[CMLT02] https://cmlt02.github.io
+[CMLT02] (https://cmlt02.github.io/)
