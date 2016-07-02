@@ -1,4 +1,4 @@
-CyanogenMod
+CyanogenMod for Galaxy Tab 3
 ===========
 
 Submitting Patches
