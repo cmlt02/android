@@ -42,6 +42,7 @@
   <project path="device/samsung/lt02wifi" name="android_device_samsung_lt02wifi" remote="cmlt02" revision="creeper-1.0" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" groups="pdk" remote="creeper" revision="creeper-1.0" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" groups="pdk" remote="cmlt02" revision="creeper-1.0" />
+  <project path="hardware/marvell" name="android_hardware_marvell_wlan" groups="pdk" remote="cmlt02" revision="creeper-1.0" />
   <project path="vendor/samsung/lt02wifi" name="android_vendor_samsung_lt02wifi" remote="cmlt02" revision="creeper-1.0" />
   <project path="vendor/marvell" name="android_vendor_marvell-common" remote="cmlt02" revision="creeper-1.0" />
   <project path="kernel/samsung/lt02" name="android_kernel_samsung_lt02" remote="cmlt02" />
